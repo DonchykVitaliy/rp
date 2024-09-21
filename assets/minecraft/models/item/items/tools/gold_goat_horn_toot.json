@@ -1,0 +1,7 @@
+{
+	"parent": "item/tooting_goat_horn",
+	"textures": {
+		"layer0": "item/gold_goat_horn"
+	}
+
+}

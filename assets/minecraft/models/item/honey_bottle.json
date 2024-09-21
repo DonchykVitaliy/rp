@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/honey_bottle"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 70000 }, "model": "item/items/alcohol/beer_mug"},
+{ "predicate": { "custom_model_data": 70001 }, "model": "item/items/alcohol/rum"},
+{ "predicate": { "custom_model_data": 70002 }, "model": "item/items/alcohol/berrie_tincture"},
+{ "predicate": { "custom_model_data": 70003 }, "model": "item/items/alcohol/coconut_tincture"},
+{ "predicate": { "custom_model_data": 70004 }, "model": "item/items/alcohol/pumpkin_tincture"},
+{ "predicate": { "custom_model_data": 70005 }, "model": "item/icons/golden_cup"},
+{ "predicate": { "custom_model_data": 70006 }, "model": "item/items/food/coconut_drink"}
+			]
+}

@@ -1,0 +1,42 @@
+{
+	"textures": {
+		"0": "minecraft:block/texture"
+	},
+	"elements": [
+		{
+			"from": [0.9, 7.9, 0.9],
+			"to": [15.1, 18, 15.1],
+			"faces": {
+				"north": {
+					"uv": [0, 7, 3.5, 9.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7, 0, 10.5, 2.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [7, 2.5, 10.5, 5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.5, 7, 7, 9.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.5, 3.5, 0, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.5, 3.5, 0, 7],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

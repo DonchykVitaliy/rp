@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/gold_fishing_rod/fishing_rod"
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spawn_egg",
+        "layer1": "item/spawn_egg_overlay"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 73003 }, "model": "item/icons/golden_ingot"},
+{ "predicate": { "custom_model_data": 73004 }, "model": "item/blocks/golden_ingot"},
+{ "predicate": { "custom_model_data": 73005 }, "model": "item/blocks/many_golden_ingot"},
+{ "predicate": { "custom_model_data": 73006 }, "model": "item/blocks/gun_frame"},
+{ "predicate": { "custom_model_data": 73007 }, "model": "item/blocks/candle_on_the_rack/candle_on_the_rack"},
+{ "predicate": { "custom_model_data": 73008 }, "model": "item/blocks/candle_on_the_rack/candle_lit_on_the_rack"},
+{ "predicate": { "custom_model_data": 73009 }, "model": "item/blocks/candle_on_the_rack/candle_on_the_iron_rack"},
+{ "predicate": { "custom_model_data": 73010 }, "model": "item/blocks/candle_on_the_rack/candle_lit_on_the_iron_rack"},
+{ "predicate": { "custom_model_data": 73011 }, "model": "item/blocks/golden_scull"},
+{ "predicate": { "custom_model_data": 73012 }, "model": "item/blocks/shell"}
+    ]
+}

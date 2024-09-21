@@ -1,0 +1,24 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 73000 }, "model": "item/icons/bottle_with_map"},
+{ "predicate": { "custom_model_data": 73001 }, "model": "item/items/tools/smoking_pipe"},
+{ "predicate": { "custom_model_data": 73002 }, "model": "item/bomb/bomb"},
+{ "predicate": { "custom_model_data": 73003 }, "model": "item/bomb/bomb_fire"},
+{ "predicate": { "custom_model_data": 73004 }, "model": "item/icons/sail/white_sail"},
+{ "predicate": { "custom_model_data": 73005 }, "model": "item/icons/sail/color_sail"},
+{ "predicate": { "custom_model_data": 73006 }, "model": "item/icons/sail/pirate_sail"},
+{ "predicate": { "custom_model_data": 73007 }, "model": "item/icons/sail/cb_sail"},
+{ "predicate": { "custom_model_data": 73008 }, "model": "item/items/tools/kelp_fishing_rod"},
+{ "predicate": { "custom_model_data": 73009 }, "model": "item/items/tools/shell"},
+{ "predicate": { "custom_model_data": 73010 }, "model": "item/items/tools/pirate_key"},
+{ "predicate": { "custom_model_data": 73011 }, "model": "item/items/tools/harp"},
+{ "predicate": { "custom_model_data": 73012 }, "model": "item/items/tools/harp2"},
+{ "predicate": { "custom_model_data": 73013 }, "model": "item/items/tools/harp2"},
+{ "predicate": { "custom_model_data": 73014 }, "model": "item/icons/sail/undead_sail"},
+{ "predicate": { "custom_model_data": 73015 }, "model": "item/items/heart"}
+			]
+}

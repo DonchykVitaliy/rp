@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/painting"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 71100 }, "model": "item/items/painting/painting_1"},
+{ "predicate": { "custom_model_data": 71101 }, "model": "item/items/painting/painting_2"},
+{ "predicate": { "custom_model_data": 71102 }, "model": "item/items/painting/painting_3"}
+			]
+}

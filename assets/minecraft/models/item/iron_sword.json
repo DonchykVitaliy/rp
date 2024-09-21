@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+    "overrides": [
+        	{ "predicate": { "custom_model_data": 74000 }, "model": "item/items/tools/saber"},
+			{ "predicate": { "custom_model_data": 74001 }, "model": "item/items/tools/saber_2"},
+			{ "predicate": { "custom_model_data": 74002 }, "model": "item/items/tools/saber_3"},
+			{ "predicate": { "custom_model_data": 74003 }, "model": "item/items/tools/saber_4"},
+			{ "predicate": { "custom_model_data": 74004 }, "model": "item/items/tools/dagger"},
+			{ "predicate": { "custom_model_data": 74005 }, "model": "item/items/tools/poison_sword"},
+			
+			
+			{ "predicate": { "custom_model_data": 75000 }, "model": "item/items/none"}
+    ]
+}

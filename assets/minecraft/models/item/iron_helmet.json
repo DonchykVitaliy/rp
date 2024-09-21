@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_helmet"
+    },
+    "overrides": [
+        	{ "predicate": { "custom_model_data": 71000 }, "model": "item/icons/eye_patch"},
+			{ "predicate": { "custom_model_data": 71001 }, "model": "item/cosmetics/pirate_cap"},
+			{ "predicate": { "custom_model_data": 71002 }, "model": "item/cosmetics/bell_hat"},
+			{ "predicate": { "custom_model_data": 71003 }, "model": "item/cosmetics/red_headband"},
+			{ "predicate": { "custom_model_data": 71004 }, "model": "item/cosmetics/black_headband"},
+			{ "predicate": { "custom_model_data": 71005 }, "model": "item/cosmetics/white_headband"},
+			{ "predicate": { "custom_model_data": 71006 }, "model": "item/cosmetics/broken_bell_hat"},
+			{ "predicate": { "custom_model_data": 71007 }, "model": "item/cosmetics/pirate_cap2"}
+    ]
+}

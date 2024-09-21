@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/mug/base",
+	"textures": {
+		"0": "item/mug/recipe/base",
+		"1": "item/mug/recipe/berries",
+		"particle": "item/mug/recipe/base"
+	}
+}

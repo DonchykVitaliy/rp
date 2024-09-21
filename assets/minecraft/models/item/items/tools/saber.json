@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/saber"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 55],
+			"translation": [0, 4.5, 2.5],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, -90, -55],
+			"translation": [0, -8.75, -0.5],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 52],
+			"translation": [1.13, 4.2, 1.13],
+			"scale": [1.32, 1.32, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -52],
+			"translation": [1.13, 4.2, 1.13],
+			"scale": [1, 1.32, 1]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [0.5, 0, 0],
+			"scale": [1.7, 1.7, 0.86]
+		},
+		"head": {
+			"translation": [0, 0, -0.25],
+			"scale": [2.02, 2.02, 2.02]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-1.5, 0, 0.25],
+			"scale": [2, 2, 1]
+		}
+	}
+}

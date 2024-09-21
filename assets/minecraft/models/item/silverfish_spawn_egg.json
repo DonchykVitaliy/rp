@@ -1,0 +1,36 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spawn_egg",
+        "layer1": "item/spawn_egg_overlay"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 73000 }, "model": "item/icons/anchor"},
+{ "predicate": { "custom_model_data": 73001 }, "model": "item/blocks/anchor"},
+{ "predicate": { "custom_model_data": 73002 }, "model": "item/blocks/bundle"},
+{ "predicate": { "custom_model_data": 73003 }, "model": "item/blocks/bottle_with_map"},
+{ "predicate": { "custom_model_data": 73004 }, "model": "item/blocks/barrel_with_gold"},
+{ "predicate": { "custom_model_data": 73005 }, "model": "item/cannon/cannonball"},
+{ "predicate": { "custom_model_data": 73006 }, "model": "item/blocks/cage/cage"},
+{ "predicate": { "custom_model_data": 73007 }, "model": "item/blocks/cage/parrot_cage_gold"},
+{ "predicate": { "custom_model_data": 73008 }, "model": "item/blocks/cage/parrot_cage_iron"},
+{ "predicate": { "custom_model_data": 73009 }, "model": "item/blocks/cage/cage1"},
+{ "predicate": { "custom_model_data": 73010 }, "model": "item/blocks/cage/cage2"},
+{ "predicate": { "custom_model_data": 73011 }, "model": "item/blocks/coconout"},
+{ "predicate": { "custom_model_data": 73012 }, "model": "item/cannon/cannonball_lit"},
+{ "predicate": { "custom_model_data": 73013 }, "model": "item/cannon/cannon"},
+{ "predicate": { "custom_model_data": 73014 }, "model": "item/cannon/cannon_fire"},
+{ "predicate": { "custom_model_data": 73015 }, "model": "item/cannon/cannonball"},
+{ "predicate": { "custom_model_data": 73016 }, "model": "item/blocks/torch_stick"},
+{ "predicate": { "custom_model_data": 73017 }, "model": "item/blocks/broken_lantern"},
+{ "predicate": { "custom_model_data": 73018 }, "model": "item/blocks/recipe_machine"},
+{ "predicate": { "custom_model_data": 73019 }, "model": "item/blocks/ship_in_a_bottle"},
+{ "predicate": { "custom_model_data": 73020 }, "model": "item/blocks/pirate_chest/close"},
+{ "predicate": { "custom_model_data": 73021 }, "model": "item/blocks/pirate_chest/open"},
+{ "predicate": { "custom_model_data": 73022 }, "model": "item/blocks/pirate_chest/opened"},
+{ "predicate": { "custom_model_data": 73023 }, "model": "item/icons/pirate_spawn_egg"},
+{ "predicate": { "custom_model_data": 73024 }, "model": "item/icons/mermaid_spawn_egg"},
+{ "predicate": { "custom_model_data": 73025 }, "model": "item/icons/undead_spawn_egg"},
+{ "predicate": { "custom_model_data": 73026 }, "model": "item/blocks/keg"}
+    ]
+}

@@ -1,0 +1,92 @@
+{
+	"teleport_to_jones":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:mobs/davy_jones/teleport","stream": true}
+		]
+	},
+	"spawn_jones":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:mobs/davy_jones/spawn","stream": true}
+		]
+	},
+	"shoot":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:shoot","stream": true}
+		]
+	},
+	"gold_horn":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:gold_horn","stream": true}
+		]
+	},
+	"harp":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:harp_1","stream": true},
+			{"name": "minecraft:harp_2","stream": true}
+		]
+	},
+	"mermaid_death":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:mobs/mermaid/death_1","stream": true},
+			{"name": "minecraft:mobs/mermaid/death_2","stream": true}
+		]
+	},
+	"mermaid_idle":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:mobs/mermaid/idle_1","stream": true},
+			{"name": "minecraft:mobs/mermaid/idle_2","stream": true},
+			{"name": "minecraft:mobs/mermaid/idle_3","stream": true},
+			{"name": "minecraft:mobs/mermaid/idle_4","stream": true}
+		]
+	},
+	"mermaid_hurt":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:mobs/mermaid/hurt_1","stream": true},
+			{"name": "minecraft:mobs/mermaid/hurt_2","stream": true}
+		]
+	},
+	"ariel_spawn":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:mobs/ariel/spawn","stream": true}
+		]
+	},
+	"heart":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:mobs/davy_jones/heart","stream": true}
+		]
+	},
+	"pirate_disc":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:records/pirate_disc","stream": true}
+		]
+	},
+	"pirate_disc_2":
+		{
+	"sounds": 
+		[
+			{"name": "minecraft:records/pirate_disc_2","stream": true}
+		]
+	}
+}

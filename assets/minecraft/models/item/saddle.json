@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/saddle"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 70000 }, "model": "item/items/tools/saddle_with_amethyst"}
+			]
+}

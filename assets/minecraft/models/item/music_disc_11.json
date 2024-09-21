@@ -1,0 +1,10 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/music_disc_11"
+  },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 78000 }, "model": "item/items/pirate_disc"},
+		{ "predicate": { "custom_model_data": 78001 }, "model": "item/items/pirate_disc_2"}
+	]
+}

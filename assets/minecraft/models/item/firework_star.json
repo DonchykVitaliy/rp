@@ -1,0 +1,52 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star"
+    },
+    "overrides": [
+{ "predicate": { "custom_model_data": 70200 }, "model": "item/icons/custom/update"},
+{ "predicate": { "custom_model_data": 70201 }, "model": "item/icons/custom/hamer"},
+	
+{ "predicate": { "custom_model_data": 73000 }, "model": "item/cosmetics/eye_patch"},
+{ "predicate": { "custom_model_data": 73001 }, "model": "item/cosmetics/eye_patch_pillagers"},
+{ "predicate": { "custom_model_data": 73002 }, "model": "item/items/materials/golden_tooth"},
+{ "predicate": { "custom_model_data": 73003 }, "model": "item/items/materials/weapons_charge"},
+{ "predicate": { "custom_model_data": 73004 }, "model": "item/items/materials/lucky_coin"},
+{ "predicate": { "custom_model_data": 73005 }, "model": "item/items/alcohol/mug"},
+{ "predicate": { "custom_model_data": 73006 }, "model": "item/items/materials/vessel"},
+{ "predicate": { "custom_model_data": 73007 }, "model": "item/cosmetics/pirate_cap"},
+{ "predicate": { "custom_model_data": 73008 }, "model": "item/cosmetics/bell_hat"},
+{ "predicate": { "custom_model_data": 73009 }, "model": "item/mug/wheat"},
+{ "predicate": { "custom_model_data": 73010 }, "model": "item/mug/sugar_cane"},
+{ "predicate": { "custom_model_data": 73011 }, "model": "item/mug/berries"},
+{ "predicate": { "custom_model_data": 73012 }, "model": "item/mug/pumpkin"},
+{ "predicate": { "custom_model_data": 73013 }, "model": "item/mug/cocnout"},
+{ "predicate": { "custom_model_data": 73014 }, "model": "item/items/materials/mermaid_scales"},
+{ "predicate": { "custom_model_data": 73015 }, "model": "item/items/tools/amethyst_amulet"},
+{ "predicate": { "custom_model_data": 73016 }, "model": "item/cosmetics/red_headband"},
+{ "predicate": { "custom_model_data": 73017 }, "model": "item/cosmetics/black_headband"},
+{ "predicate": { "custom_model_data": 73018 }, "model": "item/cosmetics/white_headband"},
+{ "predicate": { "custom_model_data": 73019 }, "model": "item/cosmetics/broken_bell_hat"},
+{ "predicate": { "custom_model_data": 73020 }, "model": "item/cosmetics/pirate_cap2"},
+{ "predicate": { "custom_model_data": 73021 }, "model": "item/items/tools/emerald_amulet"},
+
+
+{ "predicate": { "custom_model_data": 73030 }, "model": "item/sail/fishing_rod"},
+{ "predicate": { "custom_model_data": 73031 }, "model": "item/sail/base"},
+{ "predicate": { "custom_model_data": 73032 }, "model": "item/sail/pirates"},
+{ "predicate": { "custom_model_data": 73033 }, "model": "item/sail/command_block"},
+{ "predicate": { "custom_model_data": 73034 }, "model": "item/sail/undead"},
+
+
+{ "predicate": { "custom_model_data": 75000 }, "model": "item/gui/brewing_barrel"},
+{ "predicate": { "custom_model_data": 75001 }, "model": "item/gui/brewing_barrel25"},
+{ "predicate": { "custom_model_data": 75002 }, "model": "item/gui/brewing_barrel50"},
+{ "predicate": { "custom_model_data": 75003 }, "model": "item/gui/brewing_barrel75"},
+{ "predicate": { "custom_model_data": 75004 }, "model": "item/gui/brewing_barrel100"},
+{ "predicate": { "custom_model_data": 75005 }, "model": "item/icons/custom/logo"},
+{ "predicate": { "custom_model_data": 75006 }, "model": "item/icons/custom/logo_main"},
+{ "predicate": { "custom_model_data": 75007 }, "model": "item/gui/recipe_machine"},
+{ "predicate": { "custom_model_data": 75008 }, "model": "item/icons/custom/bigsty"},
+{ "predicate": { "custom_model_data": 75009 }, "model": "item/icons/custom/checkmark"}
+			]
+}

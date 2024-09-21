@@ -1,0 +1,49 @@
+{
+    "providers": [
+		{ "type": "bitmap",
+            "file": "minecraft:font/blackbeard2.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE982"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/blackbeard2_ua.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE983"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/blackbeard2_ru.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE984"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/blackbeard_ru.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE985"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/blackbeard_ua.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE986"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/blackbeard.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE987"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/mermaid_ariel.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE988"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/mermaid_ariel_ru.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE989"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/mermaid_ariel_ua.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE990"]
+        }
+    ]
+}
