@@ -38,6 +38,8 @@
 {"predicate": { "custom_model_data": 79049 }, "model": "item/mobs/mermaid/ariel/cliques"},
 {"predicate": { "custom_model_data": 79051 }, "model": "item/mobs/mermaid/ariel/attack2"},
 {"predicate": { "custom_model_data": 79052 }, "model": "item/mobs/mermaid/ariel/attack3"},
+{"predicate": { "custom_model_data": 79053 }, "model": "item/mobs/mermaid/ariel/attack_cliques"},
+{"predicate": { "custom_model_data": 79054 }, "model": "item/mobs/mermaid/ariel/attack_cliques2"},
 
 {"predicate": { "custom_model_data": 79210 }, "model": "item/mobs/pirates/boss/stay"},
 {"predicate": { "custom_model_data": 79211 }, "model": "item/mobs/pirates/boss/move"},
