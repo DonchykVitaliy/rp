@@ -92,6 +92,14 @@
 {"predicate": { "custom_model_data": 79355 }, "model": "item/mobs/undead/drowned_2/moment2"},
 {"predicate": { "custom_model_data": 79356 }, "model": "item/mobs/undead/drowned_2/moment3"},
 
+{"predicate": { "custom_model_data": 79380 }, "model": "item/mobs/undead/boss/stay"},
+{"predicate": { "custom_model_data": 79381 }, "model": "item/mobs/undead/boss/move"},
+{"predicate": { "custom_model_data": 79382 }, "model": "item/mobs/undead/drowned_2/death"},
+{"predicate": { "custom_model_data": 79383 }, "model": "item/mobs/undead/drowned_2/attack"},
+{"predicate": { "custom_model_data": 79384 }, "model": "item/mobs/undead/drowned_2/moment1"},
+{"predicate": { "custom_model_data": 79385 }, "model": "item/mobs/undead/drowned_2/moment2"},
+{"predicate": { "custom_model_data": 79386 }, "model": "item/mobs/undead/drowned_2/moment3"},
+
 {"predicate": { "custom_model_data": 79400 }, "model": "item/mobs/pirates/pirate_1/stay"},
 {"predicate": { "custom_model_data": 79401 }, "model": "item/mobs/pirates/pirate_1/move"},
 {"predicate": { "custom_model_data": 79402 }, "model": "item/mobs/pirates/pirate_1/death"},

@@ -29,6 +29,7 @@
 { "predicate": { "custom_model_data": 73019 }, "model": "item/cosmetics/broken_bell_hat"},
 { "predicate": { "custom_model_data": 73020 }, "model": "item/cosmetics/pirate_cap2"},
 { "predicate": { "custom_model_data": 73021 }, "model": "item/items/tools/emerald_amulet"},
+{ "predicate": { "custom_model_data": 73022 }, "model": "item/cosmetics/pirate_cap3"},
 
 
 { "predicate": { "custom_model_data": 73030 }, "model": "item/sail/fishing_rod"},

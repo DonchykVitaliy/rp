@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/icons/pirate_sail"
+		"layer0": "item/icons/undead_sail"
 	},
 	"display": {
 		"thirdperson_righthand": {
