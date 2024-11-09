@@ -44,6 +44,16 @@
             "file": "minecraft:font/mermaid_ariel_ua.png",
             "ascent": 13, "height": 52,
             "chars": ["\uE990"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/davy_ua.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE991"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/davy2_ua.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE992"]
         }
     ]
 }
