@@ -12,6 +12,7 @@
 			{ "predicate": { "custom_model_data": 71005 }, "model": "item/cosmetics/white_headband"},
 			{ "predicate": { "custom_model_data": 71006 }, "model": "item/cosmetics/broken_bell_hat"},
 			{ "predicate": { "custom_model_data": 71007 }, "model": "item/cosmetics/pirate_cap2"},
-			{ "predicate": { "custom_model_data": 71008 }, "model": "item/cosmetics/pirate_cap3"}
+			{ "predicate": { "custom_model_data": 71008 }, "model": "item/cosmetics/pirate_cap3"},
+			{ "predicate": { "custom_model_data": 71009 }, "model": "item/cosmetics/pirate_cap4"}
     ]
 }
