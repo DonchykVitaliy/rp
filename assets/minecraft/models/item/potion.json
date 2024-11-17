@@ -144,6 +144,14 @@
 {"predicate": { "custom_model_data": 79903 }, "model": "item/mobs/pirates/with_saber/attack"},
 {"predicate": { "custom_model_data": 79904 }, "model": "item/mobs/pirates/with_saber/moment1"},
 {"predicate": { "custom_model_data": 79905 }, "model": "item/mobs/pirates/with_saber/moment2"},
-{"predicate": { "custom_model_data": 79906 }, "model": "item/mobs/pirates/with_saber/moment3"}
+{"predicate": { "custom_model_data": 79906 }, "model": "item/mobs/pirates/with_saber/moment3"},
+
+{"predicate": { "custom_model_data": 79950 }, "model": "item/mobs/pirates/with_rifle/stay"},
+{"predicate": { "custom_model_data": 79951 }, "model": "item/mobs/pirates/with_rifle/move"},
+{"predicate": { "custom_model_data": 79952 }, "model": "item/mobs/pirates/with_rifle/death"},
+{"predicate": { "custom_model_data": 79953 }, "model": "item/mobs/pirates/with_rifle/attack"},
+{"predicate": { "custom_model_data": 79954 }, "model": "item/mobs/pirates/with_rifle/m1"},
+{"predicate": { "custom_model_data": 79955 }, "model": "item/mobs/pirates/with_rifle/m2"},
+{"predicate": { "custom_model_data": 79956 }, "model": "item/mobs/pirates/with_rifle/m3"}
     ]
 }

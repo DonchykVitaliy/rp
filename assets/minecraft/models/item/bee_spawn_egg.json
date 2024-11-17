@@ -14,6 +14,10 @@
 { "predicate": { "custom_model_data": 73009 }, "model": "item/blocks/candle_on_the_rack/candle_on_the_iron_rack"},
 { "predicate": { "custom_model_data": 73010 }, "model": "item/blocks/candle_on_the_rack/candle_lit_on_the_iron_rack"},
 { "predicate": { "custom_model_data": 73011 }, "model": "item/blocks/golden_scull"},
-{ "predicate": { "custom_model_data": 73012 }, "model": "item/blocks/shell"}
+{ "predicate": { "custom_model_data": 73012 }, "model": "item/blocks/shell"},
+{ "predicate": { "custom_model_data": 73014 }, "model": "item/items/food/cheesecake/4parts"},
+{ "predicate": { "custom_model_data": 73015 }, "model": "item/items/food/cheesecake/3parts"},
+{ "predicate": { "custom_model_data": 73016 }, "model": "item/items/food/cheesecake/2parts"},
+{ "predicate": { "custom_model_data": 73017 }, "model": "item/items/food/cheesecake/1parts"}
     ]
 }

@@ -8,6 +8,7 @@
 { "predicate": { "custom_model_data": 73000 }, "model": "item/blocks/map_1"},
 { "predicate": { "custom_model_data": 73001 }, "model": "item/blocks/map_2"},
 { "predicate": { "custom_model_data": 73003 }, "model": "item/icons/map1"},
-{ "predicate": { "custom_model_data": 73004 }, "model": "item/icons/map2"}
+{ "predicate": { "custom_model_data": 73004 }, "model": "item/icons/map2"},
+{ "predicate": { "custom_model_data": 73013 }, "model": "item/items/food/cheesecake"}
 ]
 }

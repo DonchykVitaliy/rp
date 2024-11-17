@@ -9,7 +9,6 @@
 { "predicate": { "custom_model_data": 70002 }, "model": "item/items/alcohol/berrie_tincture"},
 { "predicate": { "custom_model_data": 70003 }, "model": "item/items/alcohol/coconut_tincture"},
 { "predicate": { "custom_model_data": 70004 }, "model": "item/items/alcohol/pumpkin_tincture"},
-{ "predicate": { "custom_model_data": 70005 }, "model": "item/icons/golden_cup"},
-{ "predicate": { "custom_model_data": 70006 }, "model": "item/items/food/coconut_drink"}
+{ "predicate": { "custom_model_data": 70005 }, "model": "item/icons/golden_cup"}
 			]
 }
