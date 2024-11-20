@@ -6,6 +6,7 @@
   "pir.hook_info.bb": "When in Main Hand: ",
   "pir.hook_info1.bb": " 2 Attack Damage",
   "pir.hook_info2.bb": " 1 Attack Speed",
+  "pir.hook_info3.bb": "-1 Attack Range",
   "pir.anchor.bb": "Anchor",
   "pir.bottle.bb": "Map in a Bottle",
   "pir.eye_path.bb": "Eye Patch",
@@ -44,6 +45,7 @@
   "pir.dagger_info.bb": "When in Main Hand: ",
   "pir.dagger_info1.bb": " 5 Attack Damage",
   "pir.dagger_info2.bb": " 1 Attack Speed",
+  "pir.dagger_info3.bb": "-1 Attack Range",
   "pir.coconut.bb": "Coconut",
   "pir.berry_tincture.bb": "Berry Tincture",
   "pir.coconut_tincture.bb": "Coconut Tincture",
@@ -177,6 +179,7 @@
   "pir.coconut_drink.bb": "Coconut Drink",
   "pir.with_bomb_egg.bb": "Pirate with Bomb Spawn Egg",
   "pir.with_hook_egg.bb": "Pirate with Hook Spawn Egg",
+  "pir.with_rifle_egg.bb": "Pirate with Rifle Spawn Egg",
   "pir.with_saber_egg.bb": "Pirate Captain Spawn Egg",
   "pir.with_pistol_egg.bb": "Pirate with Pistol Spawn Egg",
   "pir.pirate_egg.bb": "Pirate Spawn Egg",
@@ -191,6 +194,7 @@
   "pir.emerald_amulet_info1.bb": " At low health, makes you invisible to mobs",
   "pir.painting_heart.bb": "Ritual",
   "pir.painting_heart1.bb": "BigSTy",
+  "pir.broken_bell_hat.bb": "Broken underwater bell",
   "pir..bb": "",
   
     
@@ -297,7 +301,8 @@
   "pir.mob_pirates.boss_s": "\uE982",
   "pir.mob_pirates.boss": "\uE987",
   "pir.mob_ocean.ariel": "\uE988",
-  "pir.mob..bb": "",
+  "pir.mob_ocean.davy_jones": "\uE995",
+  "pir.mob_ocean.davy_jones_s": "\uE996",
   
   
   "DataPack.": "DataPack ",

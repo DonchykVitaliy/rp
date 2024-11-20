@@ -6,6 +6,7 @@
   "pir.hook_info.bb": "Когда в ведущей руке: ",
   "pir.hook_info1.bb": " 2 Урон",
   "pir.hook_info2.bb": " 1 Скорость атаки",
+  "pir.hook_info3.bb": "-1 Дальность атаки",
   "pir.anchor.bb": "Якорь",
   "pir.bottle.bb": "Карта в бутылке",
   "pir.eye_path.bb": "Повязка на глаз",
@@ -44,6 +45,7 @@
   "pir.dagger_info.bb": "Когда в ведущей руке: ",
   "pir.dagger_info1.bb": " 5 Урон",
   "pir.dagger_info2.bb": " 1 Скорость атаки",
+  "pir.dagger_info3.bb": "-1 Дальность атаки",
   "pir.coconut.bb": "Кокос",
   "pir.berry_tincture.bb": "Ягодная настойка",
   "pir.coconut_tincture.bb": "Кокосовая настойка",
@@ -177,6 +179,7 @@
   "pir.coconut_drink.bb": "Кокосовый напиток",
   "pir.with_bomb_egg.bb": "Яйцо призыва пирата с бомбой",
   "pir.with_hook_egg.bb": "Яйцо призыва пирата с протезом",
+  "pir.with_rifle_egg.bb": "Яйцо призыва пирата с мушкетом",
   "pir.with_saber_egg.bb": "Яйцо призыва капитана пиратов",
   "pir.with_pistol_egg.bb": "Яйцо призыва пирата с пистолем",
   "pir.pirate_egg.bb": "Яйцо призыва пирата",
@@ -191,6 +194,7 @@
   "pir.emerald_amulet_info1.bb": " При малом здоровье делает вас невидимым для мобов",
   "pir.painting_heart.bb": "Обряд",
   "pir.painting_heart1.bb": "BigSTy",
+  "pir.broken_bell_hat.bb": "Сломанный подводный звон",
   "pir..bb": "",
   
   
@@ -297,7 +301,8 @@
   "pir.mob_pirates.boss_s": "\uE984",
   "pir.mob_pirates.boss": "\uE985",
   "pir.mob_ocean.ariel": "\uE989",
-  "pir.mob..bb": "",
+  "pir.mob_ocean.davy_jones": "\uE993",
+  "pir.mob_ocean.davy_jones_s": "\uE994",
   
   
   "DataPack.": "ДатаПак ",

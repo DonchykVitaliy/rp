@@ -54,6 +54,26 @@
             "file": "minecraft:font/davy2_ua.png",
             "ascent": 18, "height": 64,
             "chars": ["\uE992"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/davy_ru.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE993"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/davy2_ru.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE994"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/davy.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE995"]
+        },
+		{ "type": "bitmap",
+            "file": "minecraft:font/davy2.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE996"]
         }
     ]
 }
